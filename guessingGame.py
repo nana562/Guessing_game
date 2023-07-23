@@ -11,7 +11,7 @@ number = random.randint(1, 9)
 # or it is the inputs given by user into input box here number of chances are 5
 chances = 0
 
-print("Guess a number (between 1 and 9):")
+print("Guess a number (between 1 and 19):")
 
 # While loop to count the number of chances
 while chances < 5:
